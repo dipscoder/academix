@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "academixb0720376": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-academix-dev-154507-authRole",
+      "UnauthRoleArn": "arn:aws:iam::298995459220:role/amplify-academix-dev-154507-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::298995459220:role/amplify-academix-dev-154507-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-academix-dev-154507-deployment",
+      "UnauthRoleName": "amplify-academix-dev-154507-unauthRole",
+      "StackName": "amplify-academix-dev-154507",
+      "StackId": "arn:aws:cloudformation:us-east-2:298995459220:stack/amplify-academix-dev-154507/14f606b0-cb67-11eb-b45a-0a9e4daac7b4",
+      "AmplifyAppId": "d2jli9aozhaqh6"
+    },
+    "categories": {
+      "auth": {
+        "academixb0720376": {}
+      }
+    }
+  }
+}
